@@ -1,0 +1,38 @@
+:root {
+  --contour-color: #000;
+  --like-red: #ff0000;
+  --animation-fill-color: #000;
+  --accent-color: #000;
+  --like-text-color: #000;
+  --container-width-clamp: clamp(320px, 100vw, 700px);
+  --tag-stroke-color: #fff;
+  --font-size: clamp(14px, 1.2rem, 65px);
+  --font-main: 'Inter';
+  --font-accent: 'PressStart2P';
+  --font-weight-header: 715;
+  --font-weignt-text: 410;
+  --header-width-clamp: clamp(280px, 375px);
+  --header-padding-clamp: clamp(12px, 24px);
+  --like-text-color: #fff;
+  --page-bg-gradient:
+  repeating-linear-gradient(
+    90deg,
+    #d3d3d3 0px,
+    #d3d3d3 2px,
+    transparent 2px,
+    transparent 4px
+  ),
+  repeating-linear-gradient(
+    0deg,
+    #d3d3d3 0px,
+    #d3d3d3 2px,
+    transparent 2px,
+    transparent 4px
+  ),
+  linear-gradient(
+    to bottom,
+    #e7e7e7 0%,
+    #e7e7e7 1%,
+    #1a1a1a 100%
+  );
+}
