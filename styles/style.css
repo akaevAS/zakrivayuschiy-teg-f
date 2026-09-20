@@ -316,6 +316,7 @@
     transform 0.2s ease,
     fill 0.2s ease,
     stroke 0.2s ease;
+  transform-origin: center;
 }
 
 .card__icon-button:hover .like-icon:not(.is-liked) {
@@ -368,7 +369,6 @@ dialog::backdrop {
 
 .dialog__text {
   line-height: 150%;
-  text-transform: uppercase;
   text-transform: uppercase;
   font-family: var(--font-accent);
   font-weight: 400;
@@ -479,10 +479,6 @@ dialog::backdrop {
 
 .sparks {
   opacity: 0;
-}
-
-.like-icon {
-  transform-origin: center;
 }
 
 .contour {
