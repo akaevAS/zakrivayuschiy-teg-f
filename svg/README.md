@@ -1,1 +1,1 @@
-В этой папке будут храниться все необходимые SVG-файлы для сайта.
+https://akaevas.github.io/zakrivayuschiy-teg-f/
