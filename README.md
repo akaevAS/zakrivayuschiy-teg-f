@@ -1,1 +1,1 @@
-https://akaevas.github.io/zakrivayuschiy-teg-f/
+https://github.com/akaevAS/zakrivayuschiy-teg-f
