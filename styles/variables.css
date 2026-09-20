@@ -9,8 +9,8 @@
   --font-size: clamp(14px, 1.2rem, 65px);
   --font-main: 'Inter';
   --font-accent: 'PressStart2P';
-  --font-weight-header: 715;
-  --font-weignt-text: 410;
+  --font-weight-header: 'wght' 715;
+  --font-weignt-text: 'wght' 410;
   --header-width-clamp: clamp(280px, 375px);
   --header-padding-clamp: clamp(12px, 24px);
   --like-text-color: #fff;
